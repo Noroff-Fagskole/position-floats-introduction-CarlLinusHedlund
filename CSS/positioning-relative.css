@@ -1,0 +1,15 @@
+.container {
+  background-color: aliceblue;
+  height: 50px;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  width: 100%;
+}
+
+/* position relative, move item relative to the parent */
+.relative-position {
+  position: relative;
+  top: 10px;
+  left: 40px;
+}

@@ -1,0 +1,23 @@
+.container {
+  background-color: aquamarine;
+  position: relative;
+  height: 100px;
+}
+
+.one {
+  z-index: 2;
+  background-color: blueviolet;
+  padding: 10px;
+  width: 200px;
+  position: relative;
+}
+
+.two {
+  background-color: brown;
+  padding: 20px;
+  width: 200px;
+  position: absolute;
+  left: 40px;
+  top: 10px;
+  z-index: 1;
+}

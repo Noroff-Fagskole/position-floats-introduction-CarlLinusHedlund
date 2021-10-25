@@ -1,0 +1,28 @@
+body {
+  margin: 0%;
+}
+
+.bg-blue {
+  background-color: royalblue;
+}
+
+.float {
+  background-color: antiquewhite;
+  padding: 30px;
+  margin: 10px;
+  border-bottom: 1px solid red;
+}
+
+.floated-right {
+  float: right;
+}
+
+.floated-left {
+  float: left;
+}
+
+/* help class*/
+
+.clear {
+  clear: right;
+}
